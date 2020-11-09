@@ -1,0 +1,29 @@
+.example-container .mat-form-field + .mat-form-field {
+    margin-left: 8px;
+  }
+
+.container
+{
+    width:450px;
+    height:300px;
+    margin-top:5%;
+    
+}
+.toolbar
+{
+    text-align: center;
+    justify-content: center;
+}
+.btnpopup
+{
+   
+    width:200px;
+    height:40px;
+}
+
+.btnclass
+{
+    margin-top: 40px;
+    text-align: center;
+    justify-content: center;
+}
